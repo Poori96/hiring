@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1
+{
+    color:white;
+    text-align: center;
+    padding:20px;
+    border-bottom:3px;
+    background: #123456;
+}
+
+.hire-image
+{
+    background:url("hiring.jpg") no-repeat center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+}
+.hire-text{
+    text-align: center;
+    position: absolute;
+    top:40%;
+    left:25%;
+    width: 50%;
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+}
+
+.hire{
+    color:white;
+    border: 2px solid white;
+    padding:20px;
+}
